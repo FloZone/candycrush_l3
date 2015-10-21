@@ -1,0 +1,21 @@
+#           Name of the level
+name:       'Murs'
+#           Nb max of color
+nb_color:   5
+#           Score to reach
+score_obj:  10000
+#           Remaining hits
+hits_obj:   25
+#           Other objective 0: none, 1: gelatine, 2: chantilly, 3: cage
+objective:  0
+#           [x , y]
+size:       [9 , 7]
+grid:
+#   - [x , y , type , diff] type 0: jouable, 1: obstacle
+#                           diff jouable 0: none, 1:gelatine1, 2: gelatine2, 3: chantilly, 4: cage
+#                           diff osbtacle 0: mur
+    - [2 , 2 , 1 , 0 ]
+    - [3 , 2 , 1 , 0 ]
+    - [4 , 2 , 1 , 0 ]
+    - [5 , 2 , 1 , 0 ]
+    - [6 , 2 , 1 , 0 ]

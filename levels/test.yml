@@ -1,0 +1,17 @@
+#           Name of the level
+name:       'Testing'
+#           Nb max of color
+nb_color:   6
+#           Score to reach
+score_obj:  300
+#           Remaining hits (0: infinite)
+hits_obj:   1
+#           Other objective 0: none, 1: gelatine, 2: chantilly, 3: cage
+objective:  0
+#           [x , y]
+size:       [5 , 5]
+grid:
+#   - [x , y , type , diff] type 0: jouable, 1: obstacle
+#                           diff jouable 0: none, 1:gelatine1, 2: gelatine2, 3: chantilly, 4: cage
+#                           diff osbtacle 0: mur
+

@@ -1,0 +1,17 @@
+#           Name of the level
+name:       'Training'
+#           Nb max of color
+nb_color:   4
+#           Score to reach
+score_obj:  50000
+#           Remaining hits (0: infinite)
+hits_obj:   0
+#           Other objective 0: none, 1: gelatine, 2: chantilly, 3: cage
+objective:  0
+#           [x , y]
+size:       [9 , 6]
+grid:
+#   - [x , y , type , diff] type 0: jouable, 1: obstacle
+#                           diff jouable 0: none, 1:gelatine1, 2: gelatine2, 3: chantilly, 4: cage
+#                           diff osbtacle 0: mur
+
