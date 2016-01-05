@@ -1,2 +1,3 @@
 # candycrush_l3
-Petit projet de L3 réalisé avec Hugo Durbano et Cédric Viet
+Projet de 3ème année de Licence réalisé avec Hugo Durbano et Cédric Viet.
+Développé en C++ avec la SFML et QT Creator
